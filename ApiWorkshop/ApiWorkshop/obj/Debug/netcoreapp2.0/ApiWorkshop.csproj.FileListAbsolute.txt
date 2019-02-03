@@ -1,0 +1,11 @@
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\bin\Debug\netcoreapp2.0\ApiWorkshop.deps.json
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\bin\Debug\netcoreapp2.0\ApiWorkshop.runtimeconfig.json
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\bin\Debug\netcoreapp2.0\ApiWorkshop.runtimeconfig.dev.json
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\bin\Debug\netcoreapp2.0\ApiWorkshop.dll
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\obj\Debug\netcoreapp2.0\ApiWorkshop.csprojAssemblyReference.cache
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\obj\Debug\netcoreapp2.0\ApiWorkshop.csproj.CoreCompileInputs.cache
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\obj\Debug\netcoreapp2.0\ApiWorkshop.AssemblyInfoInputs.cache
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\obj\Debug\netcoreapp2.0\ApiWorkshop.AssemblyInfo.cs
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\bin\Debug\netcoreapp2.0\ApiWorkshop.pdb
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\obj\Debug\netcoreapp2.0\ApiWorkshop.dll
+C:\Users\Drawde\Desktop\workshops\ApiWorkshop\ApiWorkshop\obj\Debug\netcoreapp2.0\ApiWorkshop.pdb
